@@ -9,12 +9,21 @@ If you'd like to get this running at home, first you'll need to:
 * Run `ng serve` to run the application
 * Point your browser at [localhost:4200](http://localhost:4200/news)
 
+
+## YouTube Deep Dive
+
+If you enjoyed this talk, you can subscribe to my [YouTube Channel](https://www.youtube.com/c/freshbytecode), and for specific Angular 2.0 stuff, checkout my [Learn Angular 2.0 in 21 Days for Java Devs](https://www.youtube.com/playlist?list=PLix-OafSjpFmq9K8eItC6bFSgz-732Rkn) playlist.
+
+And if "too much Glen ain't enough", there's also tons of interesting stuff on my [blog](http://blogs.bytecode.com.au/glen/) and [twitter](https://www.youtube.com/c/freshbytecode).
+
 ## Screenshots
 
 ![News items fetched from Http](screenshot-1.png)
 
 ![Forms and Databinding](screenshot-2.png)
 
+
+# The Standard Blurb you get with Angular CLI projects
 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.

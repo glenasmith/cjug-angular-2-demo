@@ -9,7 +9,12 @@ If you'd like to get this running at home, first you'll need to:
 * Run `ng serve` to run the application
 * Point your browser at [localhost:4200](http://localhost:4200/news)
 
- 
+## Screenshots
+
+![News items fetched from Http](screenshot-1.png)
+
+![Forms and Databinding](screenshot-2.png)
+
 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.

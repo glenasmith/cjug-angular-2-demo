@@ -8,9 +8,8 @@ import { routing,
 
 @NgModule({
 	declarations: [ AppComponent,  ],
-	providers: [  ],
 	providers: [ appRoutingProviders ],
-	imports: [ BrowserModule, FormsModule, ReactiveFormsModule, HttpModule ],
+	imports: [ BrowserModule, FormsModule, ReactiveFormsModule, HttpModule, routing ],
 	bootstrap: [ AppComponent ]
 })
 export class AppModule { }

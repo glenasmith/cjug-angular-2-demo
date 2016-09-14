@@ -14,7 +14,7 @@ If you'd like to get this running at home, first you'll need to:
 
 If you enjoyed this talk, you can subscribe to my [YouTube Channel](https://www.youtube.com/c/freshbytecode), and for specific Angular 2.0 stuff, checkout my [Learn Angular 2.0 in 21 Days for Java Devs](https://www.youtube.com/playlist?list=PLix-OafSjpFmq9K8eItC6bFSgz-732Rkn) playlist.
 
-And if "too much Glen ain't enough", there's also tons of interesting stuff on my [blog](http://blogs.bytecode.com.au/glen/) and [twitter](https://www.youtube.com/c/freshbytecode).
+And if "too much Glen ain't enough", there's also tons of interesting stuff on my [blog](http://blogs.bytecode.com.au/glen/) and [twitter](https://twitter.com/glen_a_smith/).
 
 ## Screenshots
 

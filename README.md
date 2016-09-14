@@ -1,4 +1,16 @@
-# Champion
+# CJUG Sample News Application
+
+This was a small application that we developed during a [Canberra Java User Group](https://www.meetup.com/Canberra-Java-User-Group/) Meetup about [Angular 2.0](https://www.meetup.com/Canberra-Java-User-Group/events/233297712/).
+
+If you'd like to get this running at home, first you'll need to:
+* Download and Install a current [Node.js](https://nodejs.org/en/)
+* Check into the project directory and type `npm install` 
+* Run `npm install -g angular-cli` to get the [Angular CLI](https://cli.angular.io/)
+* Run `ng serve` to run the application
+* Point your browser at [localhost:4200](http://localhost:4200/news)
+
+ 
+
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 

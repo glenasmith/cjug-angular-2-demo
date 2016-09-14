@@ -1,0 +1,22 @@
+<div class="row">
+  <form class="col s12" #form='ngForm' (ngSubmit)='OnFormSubmit(form.value)'>
+
+    <div class="row">
+      <div class="input-field col s12">
+        <input id="link" type="url" name="link" ngModel required>
+        <label for="link">News URL</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s12">
+        <input id="description" ngModel type="text" name="description" required>
+        <label for="description">Link Description</label>
+      </div>
+    </div>
+    <div class="row">
+      <button class="btn waves-effect waves-light" type="submit" name="action">Add News</button>
+    </div>
+  </form>
+</div>
+
+{{ form.value | json }}
